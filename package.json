@@ -1,0 +1,21 @@
+{
+  "name": "kent-color-theme",
+  "displayName": "Kent Theme",
+  "description": "Revised from 1984",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kent-color-theme.json"
+      }
+    ]
+  }
+}
